@@ -1,0 +1,14 @@
+{
+  "name": "37da3ac6ee3eeacc",
+  "main": "37da3ac6ee3eeacc@265.js",
+  "version": "265.0.0",
+  "homepage": "https://observablehq.com/d/37da3ac6ee3eeacc",
+  "author": {
+    "name": "MalekCHAMMAKHI",
+    "url": "https://observablehq.com/@malekchammakhi"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
