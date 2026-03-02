@@ -153,7 +153,7 @@ htl.html`<table>
 )}
 
 function _workbook(FileAttachment){return(
-FileAttachment("Récolte_de_bois_ par_région_de_provenance_en_2023.xlsx").xlsx()
+FileAttachment("Récolte_de_bois_par_région_de_provenance_en_2023.xlsx").xlsx()
 )}
 
 function _focusAnalyse(Inputs){return(
